@@ -1,0 +1,12 @@
+<button id="change-order">Reverse Column Order</button><button id="add-row">Add Row</button>
+<table summary="Edit data with a tabular interface">
+    <caption>Tabular Editor Name</caption>
+    <thead>
+        <tr>
+            {{#each headers}}
+                <th data-column="{{@index}}"><div class="data">{{ this }}</div></th>
+            {{/each}}
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>

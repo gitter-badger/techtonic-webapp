@@ -1,0 +1,102 @@
+/*------------------------------------*\
+    @TABLE
+\*------------------------------------*/
+table {
+  background: none;
+  border: none;
+  border-collapse: separate;
+  border-spacing: 0; /*set with JavaScript (default: 0)*/
+  margin: 0;
+  padding: 0;
+  table-layout: fixed;
+  text-align: center;
+  text-overflow: ellipsis;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+caption {display: none;}
+
+/*------------------------------------*\
+    @THEAD/TBODY
+\*------------------------------------*/
+thead, tbody {
+  background-color: #333; /*border color when table border-spacing > 0*/
+  position: absolute; /*needed to set height*/
+}
+
+thead {
+  padding-right: 17px; /*scrollbarWidth()*/
+  z-index: 2;
+}
+
+tbody {
+  height: auto; /*set with JavaScript*/
+  margin: 0;
+  margin-top: 3em; /*header height === 1em + 3[td padding]*/
+  overflow-y: scroll;
+  padding: 0;
+  z-index: 1;
+}
+
+/*------------------------------------*\
+    @ROWS
+\*------------------------------------*/
+tr {
+  background-color: #EEE;/*row color*/
+}
+
+tr:nth-of-type(2n) {
+  background-color: #CCC;/*alternate row color*/
+}
+
+/*------------------------------------*\
+    @HEADERS & CELLS
+\*------------------------------------*/
+th, td {
+  border-color: transparent;
+  border-style: solid;
+  border-width: 4px;
+  padding: 0.5em;
+}
+
+th {
+  background-color: #333;
+  color: #DDD;
+}
+
+th:hover {
+  background-color: royalblue;
+  cursor: pointer;
+  font-weight: bold;
+  text-shadow: 1px 1px #333;
+}
+
+td:hover {
+  background-color: lightskyblue;
+  border-color: cornflowerblue;
+  cursor: pointer;
+}
+
+/*------------------------------------*\
+    @DATA
+\*------------------------------------*/
+.data {
+  background-color: transparent;
+  line-height: 1.5em;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.data:focus {
+  color: blue;
+  font-weight: bold;
+}
+
+.selected {
+  box-shadow: 0 5px 8px rgba(0,0,0,0.4);
+}
