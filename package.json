@@ -1,9 +1,9 @@
 {
-  "name": "mvc-webapp",
+  "name": "techtonic-webapp",
   "version": "1.0.0",
   "author": "Jason Wohlgemuth",
   "license": "MIT",
-  "description": "Opinionated boilerplate for using modern front-end tools to create an MVC web app.",
+  "description": "Slightly opinionated webplate and workflow for creating web applications.",
   "keywords": [
     "MVC",
     "MarionetteJS",
