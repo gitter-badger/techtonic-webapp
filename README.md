@@ -87,7 +87,6 @@
     +- web
     |   |- server.js
     |   \- socket.js
-    |- Vagrantfile
     |- GruntFile.js
     |- package.json
     |- app.json
