@@ -1,24 +1,22 @@
-<div align="center">
-<a href="https://github.com/jhwohlgemuth/mvc-webapp"><img src="../images/assets/images/banner.png"</img></a>
-</div>
+#Techtonic Web App
 
-> Opinionated boilerplate for using modern front-end tools to create an MVC web app.
+> Slightly opinionated boilerplate and workflow for creating web applications
 
 <div align="center">
-<a href="https://travis-ci.org/jhwohlgemuth/mvc-webapp"><img src="https://travis-ci.org/jhwohlgemuth/mvc-webapp.svg?branch=master"></img></a>
+<a href="https://travis-ci.org/jhwohlgemuth/mvc-webapp"><img src="https://travis-ci.org/jhwohlgemuth/techtonic-webapp.svg?branch=master"></img></a>
 <a href="https://travis-ci.org/"><img src="../images/assets/images/travis.png"></img></a>
-<a href="https://coveralls.io/r/jhwohlgemuth/mvc-webapp?branch=master"><img src="https://coveralls.io/repos/jhwohlgemuth/mvc-webapp/badge.svg?branch=master"></img></a>
+<a href="https://coveralls.io/r/jhwohlgemuth/mvc-webapp?branch=master"><img src="https://coveralls.io/repos/jhwohlgemuth/techtonic-webapp/badge.svg?branch=master"></img></a>
 </div>
 
-##Getting Started [![Join the chat at https://gitter.im/jhwohlgemuth/mvc-webapp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jhwohlgemuth/mvc-webapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)&nbsp;[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jhwohlgemuth/mvc-webapp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+##Getting Started [![Join the chat at https://gitter.im/jhwohlgemuth/mvc-webapp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jhwohlgemuth/mvc-webapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Download and install [Node.js](https://nodejs.org/download/) and [Git](https://git-scm.com/downloads)
-- Clone this repo locally (or just [download the zip](https://github.com/jhwohlgemuth/mvc-webapp/archive/master.zip))
+- Clone this repo locally (or just [download the zip](https://github.com/jhwohlgemuth/techtonic-webapp/archive/master.zip))
 ```shell
-    git clone https://github.com/jhwohlgemuth/mvc-webapp.git
+    git clone https://github.com/jhwohlgemuth/techtonic-webapp.git
 ```
 - Navigate to the root directory
 ```shell
-    cd mvc-webapp
+    cd techtonic-webapp
 ```  
 - Install the node modules needed for development
 ```shell

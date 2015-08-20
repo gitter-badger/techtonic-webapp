@@ -1,6 +1,6 @@
 {
-  "name": "MVC WebApp Template",
-  "description": "Opinionated boilerplate for using modern front-end tools to create an MVC web app.",
-  "repository": "https://github.com/jhwohlgemuth/mvc-webapp.git",
+  "name": "Techtonic Webplate",
+  "description": "Slightly opinionated boilerplate and workflow for creating web applications",
+  "repository": "https://github.com/jhwohlgemuth/techtonic-webapp.git",
   "keywords": ["MarionetteJS", "MVC", "Boilerplate"]
 }

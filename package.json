@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Jason Wohlgemuth",
   "license": "MIT",
-  "description": "Slightly opinionated webplate and workflow for creating web applications.",
+  "description": "Slightly opinionated boilerplate and workflow for creating web applications",
   "keywords": [
     "webplate",
     "MVC",
