@@ -148,4 +148,4 @@
 - See wiki page, [References & Resources](https://github.com/jhwohlgemuth/techtonic/wiki/References-&-Resources)
 
 #Future
-- See [mvc-webapp Trello board](https://trello.com/b/KjS1Fp2I/mvc-webapp)
+- See [Techtonic Trello board](https://trello.com/b/WEMB9CEL/techtonic)
