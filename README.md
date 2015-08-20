@@ -3,9 +3,9 @@
 > Slightly opinionated boilerplate and workflow for creating web applications
 
 <div align="center">
-<a href="https://travis-ci.org/jhwohlgemuth/mvc-webapp"><img src="https://travis-ci.org/jhwohlgemuth/techtonic-webapp.svg?branch=master"></img></a>
+<a href="https://travis-ci.org/jhwohlgemuth/techtonic-webapp"><img src="https://travis-ci.org/jhwohlgemuth/techtonic-webapp.svg?branch=master"></img></a>
 <a href="https://travis-ci.org/"><img src="../images/assets/images/travis.png"></img></a>
-<a href="https://coveralls.io/r/jhwohlgemuth/mvc-webapp?branch=master"><img src="https://coveralls.io/repos/jhwohlgemuth/techtonic-webapp/badge.svg?branch=master"></img></a>
+<a href='https://coveralls.io/github/jhwohlgemuth/techtonic-webapp?branch=master'><img src='https://coveralls.io/repos/jhwohlgemuth/techtonic-webapp/badge.svg?branch=master&service=github' alt='Coverage Status' /></a>
 </div>
 
 ##Getting Started [![Join the chat at https://gitter.im/jhwohlgemuth/mvc-webapp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jhwohlgemuth/mvc-webapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
