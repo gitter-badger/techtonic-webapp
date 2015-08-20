@@ -1,5 +1,7 @@
 #Techtonic Web App
 
+[![Join the chat at https://gitter.im/jhwohlgemuth/techtonic-webapp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jhwohlgemuth/techtonic-webapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Slightly opinionated boilerplate and workflow for creating web applications
 
 <div align="center">
