@@ -5,6 +5,7 @@
 <div align="center">
 <a href="https://travis-ci.org/jhwohlgemuth/techtonic-webapp"><img src="https://travis-ci.org/jhwohlgemuth/techtonic-webapp.svg?branch=master"></img></a>
 <a href="https://travis-ci.org/"><img src="../images/assets/images/travis.png"></img></a>
+
 <a href='https://coveralls.io/github/jhwohlgemuth/techtonic-webapp?branch=master'><img src='https://coveralls.io/repos/jhwohlgemuth/techtonic-webapp/badge.svg?branch=master&service=github' alt='Coverage Status' /></a>
 </div>
 
