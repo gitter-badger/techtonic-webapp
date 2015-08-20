@@ -46,7 +46,7 @@
 | code metrics          | [Plato](https://github.com/es-analysis/plato) |
 | documentation         | [JSDocs](http://usejsdoc.org/) |
 
-##Folder Structure [![Dependency Status](https://www.versioneye.com/user/projects/5599b71261663400220000c6/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5599b71261663400220000c6)
+##Folder Structure [![Dependency Status](https://www.versioneye.com/user/projects/55d664d43b97d40019000242/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55d664d43b97d40019000242)
     +- app
     |   +- models
     |   +- views
@@ -108,7 +108,7 @@
 - ```grunt plato``` (generate plato report in ```./reports``` folder)
 - Read [tasks/main.js](tasks/main.js) for all available tasks
 
-##JSCS Rules ([JSHint rules](.config/.jshintrc))&nbsp;[![Codacy Badge](https://www.codacy.com/project/badge/ad62e9c79c2c4e4191da03109602c0c2)](https://www.codacy.com/app/jhwohlgemuth/mvc-webapp)
+##JSCS Rules ([JSHint rules](.config/.jshintrc))&nbsp;[![Codacy Badge](https://www.codacy.com/project/badge/ad62e9c79c2c4e4191da03109602c0c2)](https://www.codacy.com/app/jhwohlgemuth/techtonic-webapp)
  - [Disallow Dangling Underscores](http://jscs.info/rule/disallowDanglingUnderscores.html)
  - [Disallow Empty Blocks](http://jscs.info/rule/disallowEmptyBlocks.html)
  - [Disallow Keywords: ("with")](http://jscs.info/rule/disallowKeywords.html)
